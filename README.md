@@ -1,3 +1,8 @@
+# Could not deploy on Vercel and Netlify because of unknown problem with Module not found: Can't resolve 'next-i18next'. But it works localy for me
+![image](https://user-images.githubusercontent.com/69344066/229782407-9d69aeae-3b80-4fab-aa5f-bae0b9ebfc97.png)
+![image](https://user-images.githubusercontent.com/69344066/229782533-11d4705f-35cf-4781-a397-c7cdb2d17395.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
