@@ -1,0 +1,109 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 60px;
+  border-radius: 16px;
+  box-shadow: 0 15px 66px #0000000a;
+  background: #fff;
+  position: relative;
+  width: 100%;
+  max-width: 1280px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin: auto;
+
+  @media (max-width: 767px) {
+    flex-direction: column;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+.cardDown {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 60px;
+  border-radius: 16px;
+  box-shadow: 0 15px 66px #0000000a;
+  background: #fff;
+  position: relative;
+  width: 100%;
+  max-width: 1280px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin: auto;
+  align-items: center;
+
+  @media (max-width: 767px) {
+    flex-direction: column;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+}
+
+.title {
+  margin: 0 0 30px;
+  max-width: 500px;
+}
+
+.subtitle {
+  max-width: 600px;
+  margin-bottom: 20px;
+}
+
+.text {
+  max-width: 600px;
+  margin-bottom: 40px;
+  white-space: pre-wrap;
+}
+
+.btn {
+  padding: 18px 38px;
+  margin-bottom: 60px;
+
+  @media (max-width:767px) {
+    display: none;
+  }
+}
+
+.mob_btn {
+  width: 285px;
+  min-height: 55px;
+  display: none;
+  margin: 30px auto;
+
+  @media (max-width:767px) {
+    display: block;
+  }
+}
+
+.price {
+  text-align: right;
+  color: #0068e4;
+
+  @media (max-width:767px) {
+    text-align: center;
+  }
+
+  span {
+    font-size: 60px;
+    font-weight: 100;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.37;
+    letter-spacing: -.19px;
+    text-align: right;
+  }
+
+  .priceFor {
+    color: #1b2235;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    margin-bottom: 10px;
+  }
+}

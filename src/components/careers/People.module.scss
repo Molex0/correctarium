@@ -1,0 +1,137 @@
+.people {
+  padding: 122px 60px 0;
+  overflow: hidden;
+  @media (max-width: 767px) {
+    padding: 40px 15px 0;
+  }
+  .people__container {
+    height: 300px;
+    display: block;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    position: relative;
+    margin-bottom: 110px;
+    justify-content: space-between;
+    @media (max-width:1200px){
+      height: 350px;
+    }
+    @media (max-width:732px){
+      height: 400px;
+    }
+    .active {
+      display: flex;
+      opacity: 1;
+      left: 0;
+      position: relative;
+      visibility: visible;
+      .toLeft {
+        animation: .3s activeToLeft;
+      }
+      .toRight {
+        animation: .3s activeToRight;
+      }
+    }
+
+    .hidden {
+      width: 100%;
+      left: -250%;
+      visibility: hidden;
+      opacity: 0;
+      transition: 0.3s;
+      .toLeft {
+        animation: .3s hideToLeft;
+      }
+
+      .toRight {
+        animation: .3s hideToRight;
+      }
+    }
+
+    @keyframes hideToLeft {
+      0% {
+        opacity: 1;
+        left: 0;
+      }
+
+      100% {
+        opacity: 0;
+        left: -80vw;
+      }
+    }
+
+    @keyframes hideToRight {
+      0% {
+        opacity: 1;
+        left: 0;
+      }
+
+      100% {
+        opacity: 0;
+        left: 80vw;
+      }
+    }
+
+    @keyframes activeToLeft {
+      0% {
+        opacity: 0;
+        left: 80vw;
+      }
+
+      100% {
+        opacity: 1;
+        left: 0;
+      }
+    }
+
+    @keyframes activeToRight {
+      0% {
+        opacity: 0;
+        left: -80vw;
+      }
+
+      100% {
+        opacity: 1;
+        left: 0;
+      }
+    }
+
+    .navigation {
+      position: absolute;
+      bottom: 0;
+      z-index: 1;
+      @media (max-width:767px) {
+        top: 100%;
+        opacity: 0.3;
+      }
+      .left__btn {
+        min-width: 40px;
+        width: 40px;
+        height: 40px;
+        margin: 0 20px 0 0;
+        border-radius: 8px;
+        box-shadow: 0 7px 12px #00000029;
+        padding: 0;
+        background-image: url(../../../public/arrow-btn.svg);
+        background-repeat: no-repeat;
+        background-position: center center;
+      }
+
+      .right__btn {
+        min-width: 40px;
+        width: 40px;
+        height: 40px;
+        border-radius: 8px;
+        transform: rotate(180deg);
+        box-shadow: 7px 0 12px #00000029;
+        padding: 0;
+        background-image: url(../../../public/arrow-btn.svg);
+        background-repeat: no-repeat;
+        background-position: center center;
+      }
+    }
+  }
+}

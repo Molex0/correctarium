@@ -1,0 +1,89 @@
+{
+  "prices": {
+    "title": "Services and prices",
+    "service1": "Proofreading: UK, RU",
+    "service2": "Proofreading: EN",
+    "service3": "Translation",
+    "service4": "Rewriting",
+    "service5": "Consultations"
+  },
+  "ukru": {
+    "title": "Proofreading: Russian and Ukrainian",
+    "text": "By proofreading, we mean something bigger. We correct not only spelling, grammar, and punctuation mistakes but also style and logic errors. We remove all the flaws, enter the correct quotation marks and long dashes, so that the text will be completely ready for publishing. We paraphrase all the jumbled parts, but we don’t rewrite the text excessively. There will be no unnecessary edits.",
+    "btn": "Order proofreading",
+    "price": "$1.5",
+    "priceFor": "for 1,000 characters with spaces"
+  },
+  "en": {
+    "card1": {
+      "title": "Proofreading: English",
+      "subtitle": "PROFESSIONAL NON-NATIVE PROOFREADER",
+      "text": "Use this service for internal texts, emails, and documents. If the author of the text does not speak English at the C1 level, even a non-native editor can significantly improve the text.\nWe select the best proofreaders with the help of rigorous tests, but it is worth noting that important texts require proofreading by a native speaker.",
+      "btn": "Order proofreading",
+      "price": "$3.3",
+      "priceFor": "for 1,000 characters with spaces"
+    },
+    "card2": {
+      "subtitle": "PROFESSIONAL NATIVE PROOFREADER",
+      "text": "A native proofreader takes care of texts intended for a wide foreign audience. This can be a website, an ad copy, an article, a presentation, or the text of an important speech. Our native proofreaders are from the United Kingdom and the United States, and they have worked in publishing houses and universities for many years.",
+      "btn": "Order proofreading by native speaker",
+      "price": "$9.3",
+      "priceFor": "for 1,000 characters with spaces"
+    }
+  },
+  "translate": {
+    "card1": {
+      "title": "Translation",
+      "subtitle": "TRANSLATION BETWEEN UKRAINIAN AND RUSSIAN",
+      "text": "At Correctarium, the translation between Ukrainian and Russian is done by professional translators and proofreaders. The price also includes revision by a senior proofreader—with this approach, errors are simply excluded.",
+      "btn": "Order translation",
+      "price": "$2.2",
+      "priceFor": "for 1,000 characters with spaces"
+    },
+    "card2": {
+      "subtitle": "TRANSLATION FROM ENGLISH",
+      "text": "We translate texts from English into Russian as well as Ukrainian that belong to various subject areas. Every text is translated by a professional translator and then reviewed by a senior proofreader, so you will get a completely ready-to-publish text without errors, with the correct dashes and quotation marks. Customers note that the resulting texts appear as if they were originally written in the target language: they are easy to read, sound natural, and are not a word-for-word translation.",
+      "btn": "Order translation",
+      "price": "$4.4",
+      "priceFor": "for 1,000 characters with spaces"
+    },
+    "card3": {
+      "subtitle": "TRANSLATION INTO ENGLISH",
+      "text": "Translation into English is performed by professional translators and proofreaders who are native speakers of the source language. We do an excellent job with texts that require a good style, creative texts, presentations, and advertising texts. If the text is important to you, our native English proofreader can also work on it.",
+      "btn": "Order translation",
+      "price": "$5.5",
+      "priceFor": "for 1,000 characters with spaces"
+    }
+  },
+  "rewriting": {
+    "card1": {
+      "title": "Rewriting",
+      "subtitle": "REWRITING OF TEXTS IN UKRAINIAN AND RUSSIAN",
+      "text": "Choose rewriting if you need to:\n\n— change the text so that it is perceived by search engines as unique;\n— seriously improve its structure or make the text sound better and easier to understand.\nHaving been rewritten, the text will be checked by a proofreader to ensure that there are no errors in it.\n\nTo order rewriting, fill in a short form, and we will inform you about the cost and terms of completion in an email.",
+      "btn": "Order rewriting",
+      "price": "$2.7",
+      "priceFor": "for 1,000 characters with spaces"
+    },
+    "card2": {
+      "subtitle": "REWRITING TEXTS IN ENGLISH",
+      "text": "We can rewrite the text in English to increase its uniqueness for SEO. If necessary, we can reduce its volume and add the keywords you provide.\n\nWe can also make a new text in English from one or more texts that you have. We’ll break it down into paragraphs, add headings, and remove any unnecessary information.\n\nTo order rewriting, fill in a short form, and we will inform you about the cost and terms of completion in an email.",
+      "btn": "Order rewriting",
+      "price": "$4.9",
+      "priceFor": "for 1,000 characters with spaces"
+    },
+    "card3": {
+      "subtitle": "REWRITING TEXTS IN ENGLISH BY A NATIVE SPEAKER",
+      "text": "This service is suitable for texts intended for a wide foreign audience.\n\nOur native speakers are professional proofreaders with extensive experience. The text will read like it was originally written by a native speaker.\n\nTo order rewriting, fill in a short form, and we will inform you about the cost and terms of completion in an email.",
+      "btn": "Order rewriting",
+      "price": "$13.1",
+      "priceFor": "for 1,000 characters with spaces"
+    }
+  },
+  "eval": {
+    "title": "Consultations on language issues",
+    "text": "How to correctly translate a proper name? Why is it right this way and not otherwise? Which wording is better? Where can I see the rules on this topic? We will answer these and many other questions accurately, reasonably, and almost immediately.",
+    "btn": "Ask a question",
+    "price": "$9.6",
+    "priceFor": "for 60 minutes"
+  }
+}

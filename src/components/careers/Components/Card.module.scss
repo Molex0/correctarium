@@ -1,0 +1,14 @@
+.card{
+  width: 360px;
+  padding: 30px;
+  margin-bottom: 40px;
+  min-height: 357px;
+  border-radius: 16px;
+  border: solid 1px #eeeeee;
+  .title{
+    margin-bottom: 30px;
+  }
+  .points{
+    white-space: pre-wrap;
+  }
+}

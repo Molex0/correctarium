@@ -1,0 +1,62 @@
+{
+  "mainPage": {
+    "title": "Correctarium for companies",
+    "btn": "Contact us",
+    "text1": "Correctarium is not only an online service but also a proofreading and translation agency. 90% of our orders come from regular corporate clients, many of whom have been enjoying our service for more than four years.",
+    "text2": "We specialize in texts that require an impeccable style, which is why advertising and creative agencies love us. We treat each client as the only one: we know the preferences of all their managers and clearly follow their instructions."
+  },
+  "whyUs": {
+    "title": "Why us",
+    "cards": {
+      "official": {
+        "title": "WE WORK OFFICIALLY",
+        "text": "We sign a clear contract, provide all the documents, issue invoices, and pay taxes—your accountant will be delighted. You will also make things easier for us too if you agree to use electronic document management."
+      },
+      "word": {
+        "title": "WE KEEP OUR WORD",
+        "text": "If we promised to deliver a translation by 6:00 pm tomorrow, you will receive it no later than then. We know how to calculate deadlines so that we don’t break them. However, even if there is a risk of being late because of a force majeure, you will be the first to know."
+      },
+      "fast": {
+        "title": "WE ARE FAST",
+        "text": "As fast as the quality assurance process allows. We process small texts within a few hours and a few pages within just one working day. We respond to emails within 5—10 minutes."
+      },
+      "available": {
+        "title": "WE ARE ALWAYS AVAILABLE",
+        "text": "We accept orders by email on weekdays from 10:00 am to 7:00 pm GMT+2. If necessary, we can work at night and at weekends—just ask us at least half a day in advance. Our website accepts orders 24/7."
+      },
+      "good": {
+        "title": "WE ARE GOOD",
+        "text": "At least two professionals work on each text: so there is no chance of errors. We select only those linguists who pass our rigorous tests, wherein only 5% of all candidates succeed."
+      },
+      "records": {
+        "title": "WE KEEP RECORDS",
+        "text": "For each corporate client, we keep an accounting file that shows all the order details. This way, your colleagues will know who placed orders with us, for which projects, and for what amounts of money."
+      }
+    }
+  },
+  "strength": {
+    "title": "Our strengths",
+    "char": "Advertising; Marketing; Creative texts; Start-ups; Apps; IT;Interfaces;Culture and society;Contracts;Websites;Fiction; Poetry; Movies, fashion, music;Presentations;Videoclips;Medicine; Posts for blogs and social media"
+  },
+  "customer": {
+    "title": "How to become our client",
+    "01": "Email us:",
+    "02": "We will talk through your needs and our capabilities",
+    "03": "We’ll sign the contract and exchange documents",
+    "04": "Done! Send your orders to",
+    "05": "We start working immediately",
+    "06": "At the beginning of each new month, we will send you the invoice for the previous month"
+  },
+  "list": {
+    "title": "You are in a good company",
+    "subtitle": "Full list of our clients"
+  },
+  "mission": {
+    "title": "Correctarium’s Mission",
+    "p1": "Correctarium’s mission is to enable people and brands to express respect for their audience through high-quality texts. We are a single window service: we start with proofreading a text in one language, and then we translate it into two other languages in a way that even the most attentive and discerning readers will not find anything to complain about.\n\nWe take care of our clients by continually honing our business processes so that the highest quality is obtained in the shortest possible time. We are always in touch and ready to help. We also suggest and explain all the little-known language peculiarities. We carefully store the instructions and preferences of our clients and ensure that the translators and proofreaders strictly follow them.\n\nWe take care about our readers: we make texts easy to understand, align the logic of the story, and remove all errors.",
+    "p2": "We care about the language: we follow the norm, choose variants that correspond to the language tradition, without changing the author’s style and without avoiding neologisms and borrowings. In our Telegram channels, we explain the spelling of words that have not yet entered any dictionary, based on the word-making traditions of the language and the many rules governing this process. This is how we help people say exactly what they want to say, and exactly how they want to say it.\n\nOur clients value us for our commitment and diligence. We have an accurate answer to any question, and so they can always rely on us. We stick to our word. In all senses.",
+    "name": "VALENTYNA KOZLOVA",
+    "position":"CEO Correctarium",
+    "contact":"Contact Valentyna"
+  }
+}

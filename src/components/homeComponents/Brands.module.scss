@@ -1,0 +1,42 @@
+.brands {
+  padding: 0 60px 80px;
+
+  @media (max-width: 767px) {
+    padding: 40px 15px 80px;
+  }
+
+  .brands__container {
+    width: 100%;
+    max-width: 1280px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+
+    .title {
+      margin-bottom: 24px;
+    }
+
+    .logos__container {
+      display: flex;
+      flex-wrap: wrap;
+      width: 100%;
+      justify-content: space-around;
+      column-gap: 20px;
+      row-gap: 20px;
+      filter: grayscale(100%);
+      .logo_block {
+        height: 120px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 12.57%;
+        min-width: 140px;
+
+        .logo {
+          object-fit: contain;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+.team {  
+  padding: 60px 5.172% 80px;  
+  .team__container {
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    padding: 60px 5.172% 50px;
+    background-image: url(../../../public/worker.png),linear-gradient(69deg,#f3f7fd 0%,#fff8f9 100%);
+    background-repeat: no-repeat;
+    background-size: 354px 339px,auto;
+    background-position: right -55px top -65px,0 0;
+    border-radius: 16px;
+    @media (max-width: 767px) {
+      background-size: 135px 140px,auto;
+      background-position: right -30px bottom -30px,0 0;
+      padding: 54px 20px 106px;
+      margin-bottom: 80px;
+    }
+    .title{
+      width: 600px;
+      margin: 0 40% 60px 0;
+    }
+    .subtitle{
+      width: 100%;
+      margin-bottom: 20px;
+      @media (max-width:767px) {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 1.5;
+        letter-spacing: 2.67px;
+        margin-bottom: 30px;
+      }
+    }
+    .list{
+      padding-left: 18px;
+      list-style-type: disc;
+      .li{
+        margin: 14px 0;
+        &::marker{
+          unicode-bidi: isolate;
+          font-variant-numeric: tabular-nums;
+          text-transform: none;
+          text-indent: 0px !important;
+          text-align: start !important;
+          text-align-last: start !important;
+          color: #0068e4;
+        }
+      }
+    }
+  }
+  .cards{
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    text-align: left;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .btn{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 18px 56px;
+    width: 360px;
+    @media (max-width:399px){
+      padding: 18px 0;
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "home": {
+    "order": {
+      "title": "We are temporarily not accepting orders",
+      "subtitle": "Correctarium is a creative translation agency and online service. You can order translation or proofreading services directly on our website. Just type or paste the text here and you will immediately see the price and deadline for it.",
+      "btn": "Place An Order",
+      "langCard": {
+        "UKR": "UKRAINIAN",
+        "ENG": "ENGLISH",
+        "RU": "RUSSIAN",
+        "UKR-text": "We are experts in the Ukrainian language. We know exceedingly well all the recent developments of Ukrainian spelling, and we apply the latest recommendations of reputable philologists.\n\nWarning! Some of our corrections may seem unfamiliar to you. This is because there are still a lot of mistakes and borrowings from Russian in Ukrainian which nearly everyone—including translators—is used to. Every day, we improve this situation by proofreading dozens of highly visible texts.",
+        "ENG-text": "We proofread English texts by engaging specialists from Ukraine and English native speakers. We correct spelling, grammar, punctuation, style, vocabulary, word order, and many other errors.\n\nOur native speakers are not just people who were not born in Ukraine; they are professional proofreaders from the UK and US, who have been working at publishing houses and universities for many years.",
+        "RU-text": "There are many automated spellcheckers for the Russian language. However, the result will not be perfect, as it cannot catch all the errors. Contact or contract? Only a human can detect such an error. In addition, programmes cannot cope with complicated Russian punctuation, for example. Then, there are also neologisms and borrowings...\n\nWe recommend that you send all texts intended for a wide audience to a professional proofreader."
+      }
+    },
+    "translation": {
+      "title": "Translation",
+      "text": "In general, we translate between English, Russian, and Ukrainian. However, if you have a large project from other languages, we can also utilize great talents to carry out your job.\n\nWe specialize in creative, advertising, and marketing texts, presentations, press releases, social media posts, texts about technology, finance, culture, and much more.\n\nAfter being translated, each text is sent to a professional proofreader to ensure that not even minor flaws remain.",
+      "btn": "Order translation"
+    },
+    "whyLoveUs": {
+      "title": "Why our clients love us",
+      "cards": {
+        "fast": {
+          "title": "WE ARE FAST",
+          "text": "Paste your text into this form and you will immediately see when it is going to be ready. A small text will take as little as an hour. This is exceptionally fast for a human-based service."
+        },
+        "onTime": {
+          "title": "WE ALWAYS DELIVER ON TIME!",
+          "text": "We have more than ten years of project management experience, so we know how to set deadlines so that we do not break them. However, even if there is a risk of being late, you will find out about it before the deadline, and not afterward."
+        },
+        "specialize": {
+          "title": "WE SPECIALIZE",
+          "text": "We do not accept orders on topics that are not familiar to us, e.g. nuclear power plant drawings. We have a clear focus: advertising, marketing, creative and fiction texts, journalistic texts, and so on—everything that requires a good style."
+        },
+        "professional": {
+          "title": "WE ARE PROFESSIONALS",
+          "text": "We hire translators and proofreaders with extensive education and experience—only those who can cope with our difficult tests. And we help them improve their skills every day."
+        },
+        "technology": {
+          "title": "WE USE NEW TECHNOLOGY",
+          "text": "We use all the tools that make it easier and faster to work with texts. We follow new trends, love neologisms and slang, do not get stuck in the past, and never make any text boring."
+        },
+        "formats": {
+          "title": "WE WORK WITH ALL FORMATS",
+          "text": "Documents, presentations, sheets, PDF, websites—we process texts in any format. After us, your file will look exactly like the one you sent us. No more formatting hassle!"
+        }
+      }
+    },
+    "proofReading": {
+      "title": "Urgent translation and proofreading online",
+      "card01": "Paste the text into this form",
+      "card02": "Immediately find out the cost and deadline",
+      "card03": "Pay with any bank card",
+      "card04": "Receive the text by email",
+      "noneed": "No need to call or write emails",
+      "compTime": "The minimum completion time is 1 hour"
+    },
+    "trust": {
+      "title": "These companies trust and value us"
+    },
+    "people": {
+      "filipenko": {
+        "name": "Anastatia Filipenko",
+        "text": "For the first time, we managed to find a partner for translation and proofreading that delivers high-quality texts and works fast without having any troubles with paperwork. We love that you are flexible and hear what your client desires. We really appreciate you!",
+        "since": "Has been working with us since 2017"
+      },
+      "kovtun": {
+        "name": "Natalia Kovtun",
+        "text": "Thank you, Correctarium team, for our fruitful cooperation and your excellent support! We have trusted your service for more than four years. We appreciate how attentive and knowledgeable your proofreaders are to the new Ukrainian language rules. We also love the timing of the workaround and the quality of the English translations. The team always reacts quickly, which is very important to us.",
+        "since": "Has been working with us since 2017"
+      },
+      "lytvynenko": {
+        "name": "Karyna Lytvynenko",
+        "text": "When we found Correctarium, we thought, ‘Finally’. We lacked partners to translate into English, while adapting texts and preserving the style—and now we’ve found it! The same with proofreading. We enjoy reading our texts but—after Correctarium’s help—it is even better. I’d like to highlight the good organization of Correctarium: all the jobs are always delivered on time, and they utilize electronic paperwork. What a blessing!",
+        "since": "Has been working with us since 2019"
+      },
+      "mitrov": {
+        "name": "Hennadii Mitrov",
+        "text": "Infomir has been working with Correctarium for more than two years. We order a lot of translations from Russian to English. We appreciate the agency for the quality and timing: if they promise to deliver the text before 12:00 pm on Monday, they will definitely do so. They do not just translate; they also pay attention to the entire text: if there are factual errors, they tell us, and we are very grateful for that. We get everything on time, and it is always of high quality.",
+        "since": "Has been working with us since 2017"
+      },
+      "taranenko": {
+        "name": "Olena Taranenko",
+        "text": "We have been hiring Correctarium for several years to translate and proofread all the texts that are going to be published outside our office. We stand by the fact that the quality of your texts is a sign of respect for your readers. Any interaction with Correctarium is accurate, fast, and correct. It is a pleasure to work with those who always keep their word, so that you can always count on them. If they say the text will be ready tomorrow at 2:00 pm, you will definitely have it by then, and the result will be awesome. It is easy not to let a client down once, but it is very hard not to let them down for years, just like Correctarium doesn’t let us down!",
+        "since": "Our client since 2016"
+      }
+    },
+    "brands": {
+      "title": "We worked with texts for these brands"
+    },
+    "sharing":{
+      "title":"Sharing knowledge",
+      "ukrainian":"UKRAINIAN",
+      "fb":"FACEBOOK",
+      "blog":"BLOG"
+    }
+  }
+}

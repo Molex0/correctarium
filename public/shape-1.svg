@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="315" viewBox="0 0 288 315">
+    <defs>
+        <linearGradient id="amlsi46uga" x1="0%" x2="100%" y1="100%" y2="1.853%">
+            <stop offset="0%" stop-color="#F3F7FD"/>
+            <stop offset="100%" stop-color="#FFF8F9"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill="url(#amlsi46uga)" transform="translate(0 -5245)">
+            <g>
+                <path d="M18.887 0H299.49c7.132 0 9.718.743 12.326 2.137 2.607 1.395 4.653 3.44 6.048 6.048C319.257 10.793 320 13.38 320 20.511v280.602c0 8.836-7.163 16-16 16-.881 0-1.761-.073-2.63-.218L60.91 276.818c-5.746-.957-7.757-1.73-9.816-2.975-2.058-1.243-3.695-2.88-4.938-4.938-1.244-2.059-2.018-4.07-2.975-9.816L3.105 18.63C1.652 9.914 7.541 1.67 16.257.218c.87-.145 1.75-.218 2.63-.218z" transform="translate(-30 5240) rotate(180 160 160)"/>
+            </g>
+        </g>
+    </g>
+</svg>

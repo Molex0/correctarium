@@ -1,0 +1,107 @@
+.proofReading {
+  padding: 0 60px 80px;
+
+  @media (max-width: 767px) {
+    padding: 40px 15px 80px;
+  }
+
+  .proofReading__container {
+    width: 100%;
+    max-width: 1280px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+
+    .title {
+      width: 611px;
+      @media (max-width:767px) {
+        width: 345px;
+        margin: auto;
+        font-size: 30px;
+        line-height: 1.47;
+      }
+    }
+
+    .numbers__container {
+      margin-bottom: 60px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      justify-content: space-between;
+      align-items: flex-start;
+      @media (max-width:767px) {
+        flex-direction: column;
+        align-items: center;
+      }
+      .number_block {
+        max-width: 22.414%;
+        @media (max-width:767px) {
+          max-width: 290px;
+          width: 100%;
+        }
+        &:nth-child(2) {
+          .arrow {
+            transform: scaleY(-1);
+          }
+        }
+
+        .number {
+          position: relative;
+          display: flex;
+          align-items: center;
+          font-size: 60px;
+          font-weight: 100;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1.37;
+          letter-spacing: 2px;
+          color: #0068e4;
+          justify-content: space-between;
+          margin-top: 62px;
+          margin-bottom: 13px;
+          &::before {
+            content: "";
+            position: absolute;
+            left: -17px;
+            top: -19px;
+            z-index: -1;
+            display: block;
+            width: 70px;
+            height: 70px;
+            background: url(../../../public/shape-2.svg) no-repeat;
+            background-size: 100% 100%;
+          }
+
+          .arrow {
+            margin-left: 26px;
+            margin-right: 20px;
+            position: relative;
+          }
+        }
+      }
+    }
+    .emoji__container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      @media (max-width:767px) {
+        flex-direction: column;
+      }
+      .emoji {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 360px;
+        min-height: 126px;
+        margin: 0 20px;
+        padding: 38px 40px;
+        border-radius: 16px;
+        border: solid 1px #eeeeee;
+        .text{
+          margin-left: 10px;
+        }
+      }
+    }
+  }
+}

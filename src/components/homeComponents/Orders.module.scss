@@ -1,0 +1,86 @@
+.order {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 0 60px;
+
+  &::before {
+    content: '';
+    background-color: #FCF8FA;
+    position: absolute;
+    top: 0;
+    z-index: -9999;
+    height: 970px;
+    width: 100%;
+    left: 0;
+  }
+
+  @media (max-width:964px) {
+    padding: 0 0 0 60px;
+  }
+
+  @media (max-width:768px) {
+    padding: 0 0 0 15px;
+  }
+
+  .container_back {
+    background: no-repeat url(../../../public/ManWithPen.webp);
+    background-position-x: right;
+    background-position-y: 70px;
+    padding-top: 124px;
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 100%;
+    
+    @media (max-width:964px) {
+      background-size: 55% auto;
+      background-position: right -100px top 320px;
+    }
+
+    @media (max-width:579px) {
+      background-position: right -40px top 320px;
+    }
+
+    @media (max-width:485px) {
+      background-position: right -40px top 480px;
+    }
+
+    .title {
+      max-width: 690px;
+      width: 100%;
+      margin: 0 0 20px;
+
+      @media (max-width:768px) {
+        width: auto;
+        max-width: none;
+        font-size: 30px;
+        line-height: 1.47;
+      }
+    }
+
+    .subtitle {
+      width: 660px;
+      white-space: pre-line;
+      margin-bottom: 40px;
+    }
+
+    .button {
+      margin-bottom: 100px;
+    }
+
+    .cards {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+
+      @media (max-width:1024px) {
+        overflow-x: scroll;
+        margin-left: -60px;
+      }
+
+      @media (max-width:768px) {
+        margin-left: -15px;
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+.translation {
+  border-radius: 16px;
+  position: relative;
+  background: url(../../../public/womenReads.png) no-repeat left 23px top 79px/511px 422px #FCF8FA;
+  margin: 150px auto 0;
+  width: 100%;
+  max-width: 1280px;
+  padding:0 60px;
+
+  @media (max-width: 1279px) {
+    background-position: left calc(100vw - 1303px) top 79px;
+  }
+
+  @media (max-width: 959px) {
+    background: none;
+  }
+  @media (max-width: 767px) {
+    padding: 0 15px;
+  }
+
+  .translation__container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 660px;
+    padding: 69px 20px 67px;
+    margin-left: auto;
+    border-radius: 16px;
+    background-color: #FCF8FA;
+    @media (max-width: 767px) {
+      padding: 30px 20px 67px;
+    }
+
+
+    .title {
+      margin-bottom: 30px;
+    }
+
+    .text {
+      max-width: 600px;
+      white-space: pre-line;
+      margin-bottom: 40px;
+    }
+
+    .btn {
+      align-self: flex-start;
+      @media (max-width: 559px) {
+        align-self: center;
+      }
+    }
+  }
+}

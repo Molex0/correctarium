@@ -1,0 +1,134 @@
+.people {
+  padding: 122px 60px 80px;
+  overflow: hidden;
+  @media (max-width: 767px) {
+    padding: 40px 15px 80px;
+  }
+  .people__container {
+    display: block;
+    height: 300px;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    position: relative;
+    @media (max-width: 767px) {
+      height: 600px;
+    }
+    @media (max-width: 410px) {
+      height: 900px;
+    }
+    .active {
+      display: flex;
+      opacity: 1;
+      left: 0;
+      position: relative;
+      visibility: visible;
+      .toLeft {
+        animation: .3s activeToLeft;
+      }
+      .toRight {
+        animation: .3s activeToRight;
+      }
+    }
+
+    .hidden {
+      width: 100%;
+      left: -250%;
+      visibility: hidden;
+      opacity: 0;
+      transition: 0.3s;
+      .toLeft {
+        animation: .3s hideToLeft;
+      }
+
+      .toRight {
+        animation: .3s hideToRight;
+      }
+    }
+
+    @keyframes hideToLeft {
+      0% {
+        opacity: 1;
+        left: 0;
+      }
+
+      100% {
+        opacity: 0;
+        left: -80vw;
+      }
+    }
+
+    @keyframes hideToRight {
+      0% {
+        opacity: 1;
+        left: 0;
+      }
+
+      100% {
+        opacity: 0;
+        left: 80vw;
+      }
+    }
+
+    @keyframes activeToLeft {
+      0% {
+        opacity: 0;
+        left: 80vw;
+      }
+
+      100% {
+        opacity: 1;
+        left: 0;
+      }
+    }
+
+    @keyframes activeToRight {
+      0% {
+        opacity: 0;
+        left: -80vw;
+      }
+
+      100% {
+        opacity: 1;
+        left: 0;
+      }
+    }
+
+    .navigation {
+      position: absolute;
+      top: 190px;
+      z-index: 1;
+      @media (max-width:767px) {
+        top: 100%;
+      }
+      .left__btn {
+        min-width: 40px;
+        width: 40px;
+        height: 40px;
+        margin: 0 20px 0 0;
+        border-radius: 8px;
+        box-shadow: 0 7px 12px #00000029;
+        padding: 0;
+        background-image: url(../../../public/arrow-btn.svg);
+        background-repeat: no-repeat;
+        background-position: center center;
+      }
+
+      .right__btn {
+        min-width: 40px;
+        width: 40px;
+        height: 40px;
+        border-radius: 8px;
+        transform: rotate(180deg);
+        box-shadow: 7px 0 12px #00000029;
+        padding: 0;
+        background-image: url(../../../public/arrow-btn.svg);
+        background-repeat: no-repeat;
+        background-position: center center;
+      }
+    }
+  }
+}

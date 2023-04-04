@@ -1,0 +1,39 @@
+.strength {  
+  padding: 60px 5.172% 50px;  
+  .strength__container {
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    padding: 60px 5.172% 50px;
+    background-image: url(../../../public/strength.png),linear-gradient(69deg,#f3f7fd 0%,#fff8f9 100%);
+    background-repeat: no-repeat;
+    background-size: 354px 339px,auto;
+    background-position: right -55px top -65px,0 0;
+    border-radius: 16px;
+    @media (max-width: 767px) {
+      background-size: 168px 185px,auto;
+      background-position: right -10px bottom -15px,0 0;
+      padding: 30px 0 0 20px;
+    }
+    .title{
+      width: 100%;
+      margin: 0 0 60px;
+      width: 660px;
+    }
+    .comp_table{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      @media (max-width: 767px) {
+        flex-direction: column;
+      }
+      .char{
+        margin: 0 40px 30px 0;
+        color: #454c5d;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+      }
+    }
+  }
+}

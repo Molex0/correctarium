@@ -1,0 +1,19 @@
+{
+  "service": {
+    "title": "Order translation or proofreading",
+    "service": "Service",
+    "translation": "Translation",
+    "proofreading": "Proofreading",
+    "textarea": "Write you case or wishes",
+    "email": "Your email address",
+    "name": "Your name",
+    "comment": "A comment or reference link",
+    "language": "Language pair",
+    "URE": "Ukrainian/Russian - English",
+    "EU": "English - Ukrainian",
+    "ER": "English - Russian",
+    "RU": "Russian - Ukrainian",
+    "UR": "Ukrainian - Russian",
+    "btn":"We are temporary not accepting orders"
+  }
+}

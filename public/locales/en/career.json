@@ -1,0 +1,109 @@
+{
+  "always": {
+    "title": "Translators and proofreaders wanted.\nAlways.",
+    "btn": "Contact us",
+    "text1": "Professional translators and proofreaders are key assets of Correctarium. We understand your pain and needs, take into account your interests, and try to make our cooperation pleasant and convenient.",
+    "text2": "We only work with professional translators, proofreaders, and copy editors who successfully pass our tests."
+  },
+  "whyUs": {
+    "title": "Why the best specialists\nhave been working with us for years",
+    "cards": {
+      "orders": {
+        "title": "FASCINATING TEXTS",
+        "text": "Our clients don’t send us boring user manuals or personal documents. We translate ad copy, presentations, and other important and interesting texts for leading Ukrainian and international brands."
+      },
+      "managers": {
+        "title": "FRIENDLY MANAGERS",
+        "text": "We respond quickly and clearly, give clear instructions, know the specifics of your work, and understand your personal circumstances. We care about you just like we care about our clients."
+      },
+      "instructions": {
+        "title": "CLEAR INSTRUCTIONS",
+        "text": "We have all the processes and requirements for each type of service written down. For each language, we have a guide with a list of complex rules as well as a list of sources, which will make your work much easier."
+      },
+      "communication": {
+        "title": "CONVENIENT COMMUNICATION",
+        "text": "We inform you about a suitable order by email, so that our managers will not bother you with phone calls. You can take the orders you want, whenever you want, and decline the rest."
+      },
+      "career": {
+        "title": "PROFESSIONAL GROWTH",
+        "text": "Each of your orders will be reviewed by a senior proofreader, so you will get feedback with recommendations for improvement or with praise. We also spread the word about little-known rules in our Telegram channels."
+      },
+      "onTime": {
+        "title": "ON-TIME PAYMENT",
+        "text": "We pay honoraria once a month: from the 15th day of the next month for the previous month. We have been operating since 2015 and have never been late with a payment to translators and proofreaders. Never."
+      }
+    }
+  },
+  "working": {
+    "title": "The process of\nworking with us:",
+    "step": {
+      "01": {
+        "text": "Fill in our ",
+        "link": "application form."
+      },
+      "02": "We will confirm your tasks and rates.",
+      "03": "Complete the test successfully.",
+      "04": "Done! You will receive email notifications about orders.",
+      "05": "Deliver texts of exceptionally high quality.",
+      "06": "Consider the feedback from senior proofreaders.",
+      "07": "Keep track of your statistics.",
+      "08": "Get paid on time."
+    }
+  },
+  "people": {
+    "nataT": {
+      "name": "NATALIA T.",
+      "since": "Has been working with us since 2016",
+      "text": "I remember that the test was quite hard, and after that, the senior proofreaders were no less strict about reviewing the work, so it was a bit scary :-) Now, I understand that this approach helped me grow as a specialist. For me personally, this is a great opportunity to put into practice my love for words. I am also very pleased with the fair remuneration of proofreaders and translators, both junior and senior, and the well-organized process of reviewing."
+    },
+    "nataP": {
+      "name": "NATALIIA P.",
+      "since": "Has been working with us since 2020",
+      "text": "Working with Correctarium means further professional development for me. You have to deal with very dissimilar texts, and you also have a deadline, so this helps you bring your skills to the next level. However, this doesn’t bring any stress, as you have the requirements written down, you have access to all the rules, and if you need help, managers are always there for you."
+    },
+    "nina": {
+      "name": "NINA L.",
+      "since": "Has been working with us since 2017",
+      "text": "What do I like the most about working with Correctarium? Professionalism. Meticulous approach to every word, to every letter, which results in a high-quality product. This approach does not allow a translator to rest on their laurels. It forces them to develop, learn, and become even more professional than before. The second important advantage is the atmosphere. The atmosphere is of acceptance, respect, and understanding with the necessary degree of rigour, but also with the desire to always help."
+    },
+    "andrii": {
+      "name": "ANDRII S.",
+      "since": "Has been working with us since 2019",
+      "text": "Correctarium works with demanding clients, so each order can be a real test of translation or proofreading competence, knowledge of the topic, and language proficiency. However, there are always convenient internal reference lists at hand in case you have doubts about some language issues, and experienced PMs who will quickly clarify everything you need with the customer. Communication is as transparent as possible: you will always be informed if something goes wrong, and they expect the same from you. There are two things I like most about working with them: a responsible attitude regarding the purity of the language and a desire not only to ensure quality but also to give enough time for high-quality work—a case when healthy perfectionism is combined with a human attitude. You work with such a company not because you just need to earn money but because you just want to work with such great people."
+    },
+    "nadia": {
+      "name": "NADIIA K.",
+      "since": "Has been working with us since 2020",
+      "text": "I have been working with Correctarium for just a few months, but I have to admit I have learned more with them than for the last several years. The well-thought-out system of working keeps you in a good shape. They have all the rules, e-dictionaries, and special online resources at our fingertips. Correctarium’s style guide also helps when I have doubts. And I know that even if I missed something, the senior proofreader will notice and correct it, so I am confident in the end result."
+    }
+  },
+  "team": {
+    "title": "Become a part of our team",
+    "subtitle": "General requirements for all candidates",
+    "li1": "Good command of MS Word, MS PowerPoint, Adobe Acrobat",
+    "li2": "Readiness to learn how to use new tools",
+    "li3": "Attention to detail, ability to make a product that is 100% ready for publication",
+    "li4": "High level of computer literacy",
+    "card1": {
+      "title": "PROOFREADER (UKRAINIAN)",
+      "points": "- 3+ years of experience as a proofreader or copy editor\n- Good command of new spelling rules\n- Good command of sources\n- Understanding of word-making models, ability to convey borrowings, neologisms, and slang in Ukrainian"
+    },
+    "card2": {
+      "title": "PROOFREADER (RUSSIAN)",
+      "points": "- 3+ years of experience as a proofreader or copy editor\n- Perfect command of spelling rules, sense of style\n- Good command of sources\n- Understanding of word-making models, ability to convey borrowings, neologisms, and slang in Russian"
+    },
+    "card3": {
+      "title": "PROOFREADER (ENGLISH)",
+      "points": "- 5+ years of experience as an English translator or proofreader\n- Perfect command of spelling rules, sense of style\n- Good command of sources\n- Understanding how to avoid word-for-word translation"
+    },
+    "card4": {
+      "title": "TRANSLATOR FROM ENGLISH INTO UKRAINIAN OR RUSSIAN",
+      "points": "- 3+ years of experience with these language pairs\n- Perfect command of spelling rules, sense of style\n- Good command of sources\n- Great information search skills"
+    },
+    "card5": {
+      "title": "TRANSLATOR FROM UKRAINIAN OR RUSSIAN INTO ENGLISH",
+      "points": "- 3+ years of experience with these language pairs\n- Perfect command of spelling rules, sense of style\n- Good command of sources\n- Great information search skills"
+    },
+    "btn": "Fill the candidate's application form"
+  }
+}
